@@ -37,7 +37,8 @@
   "resources":[
     {"id":{"name":"dudeObject","path":"objects/dudeObject/dudeObject.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"GreenMan","path":"sprites/GreenMan/GreenMan.yy",},},
+    {"id":{"name":"RoomBackground","path":"sprites/RoomBackground/RoomBackground.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

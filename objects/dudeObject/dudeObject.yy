@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"GreenMan",
+    "path":"sprites/GreenMan/GreenMan.yy",
   },
   "spriteMaskId":null,
   "visible":true,
