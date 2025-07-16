@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"dudeObject",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"groundObject",
+  "eventList":[],
   "managed":true,
-  "name":"dudeObject",
+  "name":"groundObject",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"GreenMan",
-    "path":"sprites/GreenMan/GreenMan.yy",
+    "name":"Ground",
+    "path":"sprites/Ground/Ground.yy",
   },
   "spriteMaskId":null,
   "visible":true,
